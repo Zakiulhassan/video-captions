@@ -1,0 +1,9 @@
+DEEPGRAM_API_KEY=your deepfram key
+OPENAI_API_KEY=your openai key
+
+# MinIO Configuration
+MINIO_ENDPOINT=localhost:9000
+MINIO_ACCESS_KEY=minioadmin
+MINIO_SECRET_KEY=minioadmin
+MINIO_SECURE=false
+MINIO_BUCKET=video-captions

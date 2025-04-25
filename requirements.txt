@@ -1,0 +1,32 @@
+# FastAPI and server
+fastapi
+uvicorn
+python-multipart
+
+# MinIO for S3 storage
+minio
+
+# Video processing
+moviepy
+Pillow
+
+# Audio processing
+pydub
+
+# Transcription
+deepgram-sdk
+
+# Environment variables
+python-dotenv
+
+# Utilities
+numpy
+uuid
+shutil
+tempfile
+
+# Type hints
+typing-extensions
+
+# Logging
+logging
